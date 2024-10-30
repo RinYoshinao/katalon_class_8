@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>History without Appoinment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c971b511-f416-44f0-87da-e46e8f8ab1c0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Username Failed - Blocks</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c262956-75a8-4ffc-8a3b-f026c4b901a7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8a4c3609-39e5-4a4e-aae7-2a1e96185dbc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f16e3775-cc76-471f-a862-1345c363aa9e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John doe'</defaultValue>
+      <description></description>
+      <id>8a4c3609-39e5-4a4e-aae7-2a1e96185dbc</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>f16e3775-cc76-471f-a862-1345c363aa9e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

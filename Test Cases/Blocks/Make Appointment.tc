@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Make Appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79fd113e-ef00-43aa-bbb5-c45fc0d177e6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ffa1afe8-fafb-4b12-9841-ab14969dbbd6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b08ca59f-7634-4635-9219-db4441ca4b16</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9e273959-7483-4716-86cf-7324e733fea3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a902eca7-2389-4ce3-bcbb-648798969c76</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bcf0b2a8-76a2-47f3-b5a4-3975a6725fea</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'30/10/2024'</defaultValue>
+      <description></description>
+      <id>ffa1afe8-fafb-4b12-9841-ab14969dbbd6</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>'cold and dyhrrea'</defaultValue>
+      <description></description>
+      <id>b08ca59f-7634-4635-9219-db4441ca4b16</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+   <variable>
+      <defaultValue>'Seoul CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>9e273959-7483-4716-86cf-7324e733fea3</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>a902eca7-2389-4ce3-bcbb-648798969c76</id>
+      <masked>false</masked>
+      <name>readmission</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medicaid'</defaultValue>
+      <description></description>
+      <id>bcf0b2a8-76a2-47f3-b5a4-3975a6725fea</id>
+      <masked>false</masked>
+      <name>healthcareprogram</name>
+   </variable>
+</TestCaseEntity>
